@@ -1,0 +1,13 @@
+Trip;Means;Cost
+Trip1;Rail;30
+Trip1;Road;25
+Trip1;Air;40
+Trip2;Rail;25
+Trip2;Road;40
+Trip2;Air;20
+Trip3;Rail;40
+Trip3;Road;45
+Trip3;Air;50
+Trip4;Rail;60
+Trip4;Road;50
+Trip4;Air;45

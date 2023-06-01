@@ -1,0 +1,3 @@
+﻿Warning: Missing semicolon at the end of a procedure body is deprecated.
+A future AIMMS version may give a compilation error on this.
+There is 60.266 Mb in use.

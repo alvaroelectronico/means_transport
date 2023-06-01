@@ -1,0 +1,10 @@
+Means1;Means2;Cost
+Air;Air;0
+Air;Rail;15
+Air;Road;10
+Rail;Air;12
+Rail;Rail;0
+Rail;Road;5
+Road;Air;10
+Road;Rail;8
+Road;Road;0

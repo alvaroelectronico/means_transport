@@ -1,0 +1,24 @@
+Warning: The variable "v01TripWithMode" is not initialized (default values are used).
+Warning: The parameter "pCostsPerTonne" is not initialized (default values are used).
+Warning: The parameter "pLoadWeight" is not initialized (default values are used).
+Warning: The variable "v01SwitchingFromMode2Mode" is not initialized (default values are used).
+Warning: The parameter "pSwitchingCost" is not initialized (default values are used).
+Warning: The domain set "sTrips" is not initialized (default values are used).
+Warning: The parameter "pTripDurations" is not initialized (default values are used).
+Warning: The parameter "pSwitchDurations" is not initialized (default values are used).
+Warning: The parameter "pDeadline" is not initialized (default values are used).
+Warning: The parameter "pPenalty" is not initialized (default values are used).
+Warning at line 1 in user-defined function section "proMinDurWithBudget".
+After six iterations CPLEX 12.7.1 concluded that an integer solution to mpMinDurWithBudget does not exist.
+Warning at line 1 in user-defined function section "proMinDurWithBudget".
+After fourteen iterations CPLEX 12.7.1 concluded that an integer solution to mpMinDurWithBudget does not exist.
+Warning at line 1 in user-defined function section "proMinDurWithBudget".
+After fourteen iterations CPLEX 12.7.1 concluded that an integer solution to mpMinDurWithBudget does not exist.
+Warning at line 1 in user-defined function section "proMinDurWithBudget".
+After fourteen iterations CPLEX 12.7.1 concluded that an integer solution to mpMinDurWithBudget does not exist.
+Warning at line 1 in user-defined function section "proMinDurWithBudget".
+After six iterations CPLEX 12.7.1 concluded that an integer solution to mpMinDurWithBudget does not exist.
+Warning at line 1 in user-defined function section "proMinDurWithBudget".
+After six iterations CPLEX 12.7.1 concluded that an integer solution to mpMinDurWithBudget does not exist.
+Warning at line 1 in user-defined function section "proMinDurWithBudget".
+After fourteen iterations CPLEX 12.7.1 concluded that an integer solution to mpMinDurWithBudget does not exist.
