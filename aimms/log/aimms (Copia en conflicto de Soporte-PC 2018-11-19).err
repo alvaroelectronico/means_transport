@@ -1,2 +1,0 @@
-Warning at line 1 in user-defined function section "MainExecution".
-Missing semicolon at the end of a procedure body is deprecated. A future AIMMS version may give a compilation error on this.

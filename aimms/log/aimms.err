@@ -1,24 +1,103 @@
-Warning: The variable "v01TripWithMode" is not initialized (default values are used).
-Warning: The parameter "pCostsPerTonne" is not initialized (default values are used).
-Warning: The parameter "pLoadWeight" is not initialized (default values are used).
-Warning: The variable "v01SwitchingFromMode2Mode" is not initialized (default values are used).
-Warning: The parameter "pSwitchingCost" is not initialized (default values are used).
-Warning: The domain set "sTrips" is not initialized (default values are used).
-Warning: The parameter "pTripDurations" is not initialized (default values are used).
-Warning: The parameter "pSwitchDurations" is not initialized (default values are used).
-Warning: The parameter "pDeadline" is not initialized (default values are used).
-Warning: The parameter "pPenalty" is not initialized (default values are used).
-Warning at line 1 in user-defined function section "proMinDurWithBudget".
-After six iterations CPLEX 12.7.1 concluded that an integer solution to mpMinDurWithBudget does not exist.
-Warning at line 1 in user-defined function section "proMinDurWithBudget".
-After fourteen iterations CPLEX 12.7.1 concluded that an integer solution to mpMinDurWithBudget does not exist.
-Warning at line 1 in user-defined function section "proMinDurWithBudget".
-After fourteen iterations CPLEX 12.7.1 concluded that an integer solution to mpMinDurWithBudget does not exist.
-Warning at line 1 in user-defined function section "proMinDurWithBudget".
-After fourteen iterations CPLEX 12.7.1 concluded that an integer solution to mpMinDurWithBudget does not exist.
-Warning at line 1 in user-defined function section "proMinDurWithBudget".
-After six iterations CPLEX 12.7.1 concluded that an integer solution to mpMinDurWithBudget does not exist.
-Warning at line 1 in user-defined function section "proMinDurWithBudget".
-After six iterations CPLEX 12.7.1 concluded that an integer solution to mpMinDurWithBudget does not exist.
-Warning at line 1 in user-defined function section "proMinDurWithBudget".
-After fourteen iterations CPLEX 12.7.1 concluded that an integer solution to mpMinDurWithBudget does not exist.
+Input/output error at line 2 in user-defined function section "webui::PROIsInitialized".
+The user function library C:\Users\alvaro\AppData\Local\AIMMS\PRO\\AimmsProLibrary-2.0\x64\AimmsPROClient.dll cannot be found.
+Input/output error at line 2 in user-defined function section "webui::PROIsInitialized".
+The library C:\Users\alvaro\AppData\Local\AIMMS\PRO\\AimmsProLibrary-2.0\x64\AimmsPROClient.dll has not been loaded because: Error loading library : El parámetro no es correcto.
+Execution error at line 2 in user-defined function section "webui::PROIsInitialized".
+The dll for external procedure "pro::management::IsInitialized" has not been found.
+Input/output error at line 2 in user-defined function section "webui::PROIsInitialized".
+The user function library C:\Users\alvaro\AppData\Local\AIMMS\PRO\\AimmsProLibrary-2.0\x64\AimmsPROClient.dll cannot be found.
+Input/output error at line 2 in user-defined function section "webui::PROIsInitialized".
+The library C:\Users\alvaro\AppData\Local\AIMMS\PRO\\AimmsProLibrary-2.0\x64\AimmsPROClient.dll has not been loaded because: Error loading library : El parámetro no es correcto.
+Execution error at line 2 in user-defined function section "webui::PROIsInitialized".
+The dll for external procedure "pro::management::IsInitialized" has not been found.
+Input/output error at line 2 in user-defined function section "webui::PROIsInitialized".
+The user function library C:\Users\alvaro\AppData\Local\AIMMS\PRO\\AimmsProLibrary-2.0\x64\AimmsPROClient.dll cannot be found.
+Input/output error at line 2 in user-defined function section "webui::PROIsInitialized".
+The library C:\Users\alvaro\AppData\Local\AIMMS\PRO\\AimmsProLibrary-2.0\x64\AimmsPROClient.dll has not been loaded because: Error loading library : El parámetro no es correcto.
+Execution error at line 2 in user-defined function section "webui::PROIsInitialized".
+The dll for external procedure "pro::management::IsInitialized" has not been found.
+Input/output error at line 2 in user-defined function section "webui::PROIsInitialized".
+The user function library C:\Users\alvaro\AppData\Local\AIMMS\PRO\\AimmsProLibrary-2.0\x64\AimmsPROClient.dll cannot be found.
+Input/output error at line 2 in user-defined function section "webui::PROIsInitialized".
+The library C:\Users\alvaro\AppData\Local\AIMMS\PRO\\AimmsProLibrary-2.0\x64\AimmsPROClient.dll has not been loaded because: Error loading library : El parámetro no es correcto.
+Execution error at line 2 in user-defined function section "webui::PROIsInitialized".
+The dll for external procedure "pro::management::IsInitialized" has not been found.
+Input/output error at line 2 in user-defined function section "webui::PROIsInitialized".
+The user function library C:\Users\alvaro\AppData\Local\AIMMS\PRO\\AimmsProLibrary-2.0\x64\AimmsPROClient.dll cannot be found.
+Input/output error at line 2 in user-defined function section "webui::PROIsInitialized".
+The library C:\Users\alvaro\AppData\Local\AIMMS\PRO\\AimmsProLibrary-2.0\x64\AimmsPROClient.dll has not been loaded because: Error loading library : El parámetro no es correcto.
+Execution error at line 2 in user-defined function section "webui::PROIsInitialized".
+The dll for external procedure "pro::management::IsInitialized" has not been found.
+A DataChangeMonitor with ID DataChangeMonitor001 does not exist.
+Input/output error at line 2 in user-defined function section "webui::PROIsInitialized".
+The user function library C:\Users\alvaro\AppData\Local\AIMMS\PRO\\AimmsProLibrary-2.0\x64\AimmsPROClient.dll cannot be found.
+Input/output error at line 2 in user-defined function section "webui::PROIsInitialized".
+The library C:\Users\alvaro\AppData\Local\AIMMS\PRO\\AimmsProLibrary-2.0\x64\AimmsPROClient.dll has not been loaded because: Error loading library : El parámetro no es correcto.
+Execution error at line 2 in user-defined function section "webui::PROIsInitialized".
+The dll for external procedure "pro::management::IsInitialized" has not been found.
+Semantic error at line 1 in the index domain of declaration section "decCommon".
+The undeclared "iTri" is not an index.
+Domain violation at line 1 in the definition of variable "vTotalCost", column 30.
+The scope of index "iMode" has not been specified.
+Semantic error at line 1 in the index domain of variable "v01SwitchExists", column 27.
+The set "sTrips" of "iTrip" is not the same as the set "sModes" of "last( sModes )".
+Syntax error at line 2 in user-defined function section "procSolveMinCost", column 1.
+The symbol "ShowProgressWindow" is not expected.
+Warning at line 3 in user-defined function section "procSolveMinCost".
+The parameter "pSwitchCosts" is not initialized (default values are used).
+Warning at line 3 in user-defined function section "procSolveMinCost".
+After zero iterations the preprocessor of CPLEX 20.1 concluded that mpMinCost is infeasible or unbounded.
+Syntax error at line 5 in the definition of constraint "cTardiness", column 1.
+Unexpected end of the definition of constraint "cTardiness".
+Semantic error at line 1 in the objective of mathematical program "mpMinCost".
+The variable "vTotalCost" to be optimized should be a free scalar variable.
+Syntax error at line 5 in the definition of constraint "cTardiness", column 1.
+Unexpected end of the definition of constraint "cTardiness".
+Syntax error at line 5 in the definition of constraint "cTardiness", column 1.
+Unexpected end of the definition of constraint "cTardiness".
+Semantic error at line 1 in the objective of mathematical program "mpMinCost".
+The variable "vTotalCost" to be optimized should be a free scalar variable.
+Syntax error at line 5 in the definition of constraint "cTardiness", column 1.
+Unexpected end of the definition of constraint "cTardiness".
+Semantic error at line 1 in the objective of mathematical program "mpMinCostTardiness".
+The variable "vTotalCostTardiness" to be optimized should be a free scalar variable.
+Semantic error at line 1 in the objective of mathematical program "mpMinCostTardiness".
+The variable "vTotalCostTardiness" to be optimized should be a free scalar variable.
+Semantic error at line 1 in the objective of mathematical program "mpMinCost".
+The variable "vTotalCost" to be optimized should be a free scalar variable.
+Semantic error at line 1 in the objective of mathematical program "mpMinCostTardiness".
+The variable "vTotalCostTardiness" to be optimized should be a free scalar variable.
+Semantic error at line 1 in the objective of mathematical program "mpMinCost".
+The variable "vTotalCost" to be optimized should be a free scalar variable.
+Semantic error.
+The internal procedure "procSolveMinCost" has already been declared as a user-defined function.  Please use another name.
+Warning at line 3 in user-defined function section "procSolveMinCostTardiness".
+The columns "v01SwitchExists(Trip2,Air,Rail)" and "v01SwitchExists(Trip3,Air,Rail)" are equal in the generated mathematical program "mpMinCostTardiness". This may lead to non-unique solutions.  For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning at line 3 in user-defined function section "procSolveMinCostTardiness".
+The columns "v01SwitchExists(Trip1,Air,Rail)" and "v01SwitchExists(Trip2,Air,Rail)" are equal in the generated mathematical program "mpMinCostTardiness". This may lead to non-unique solutions.  For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning at line 3 in user-defined function section "procSolveMinCostTardiness".
+The columns "v01SwitchExists(Trip1,Air,Road)" and "v01SwitchExists(Trip2,Air,Road)" are equal in the generated mathematical program "mpMinCostTardiness". This may lead to non-unique solutions.  For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning at line 3 in user-defined function section "procSolveMinCostTardiness".
+Only 3 out of 15 duplicate column warnings were reported.  See also option limit_reported_duplicate_column_row_warnings.
+Warning at line 3 in user-defined function section "procSolveMinCostTardiness".
+The columns "v01SwitchExists(Trip2,Air,Rail)" and "v01SwitchExists(Trip3,Air,Rail)" are equal in the generated mathematical program "mpMinCostTardiness". This may lead to non-unique solutions.  For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning at line 3 in user-defined function section "procSolveMinCostTardiness".
+The columns "v01SwitchExists(Trip1,Air,Rail)" and "v01SwitchExists(Trip2,Air,Rail)" are equal in the generated mathematical program "mpMinCostTardiness". This may lead to non-unique solutions.  For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning at line 3 in user-defined function section "procSolveMinCostTardiness".
+The columns "v01SwitchExists(Trip1,Rail,Air)" and "v01SwitchExists(Trip2,Rail,Air)" are equal in the generated mathematical program "mpMinCostTardiness". This may lead to non-unique solutions.  For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning at line 3 in user-defined function section "procSolveMinCostTardiness".
+Only 3 out of 13 duplicate column warnings were reported.  See also option limit_reported_duplicate_column_row_warnings.
+Warning at line 3 in user-defined function section "procSolveMinCostTardiness".
+The columns "v01SwitchExists(Trip2,Air,Rail)" and "v01SwitchExists(Trip3,Air,Rail)" are equal in the generated mathematical program "mpMinCostTardiness". This may lead to non-unique solutions.  For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning at line 3 in user-defined function section "procSolveMinCostTardiness".
+The columns "v01SwitchExists(Trip1,Air,Rail)" and "v01SwitchExists(Trip2,Air,Rail)" are equal in the generated mathematical program "mpMinCostTardiness". This may lead to non-unique solutions.  For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning at line 3 in user-defined function section "procSolveMinCostTardiness".
+The columns "v01SwitchExists(Trip1,Rail,Air)" and "v01SwitchExists(Trip2,Rail,Air)" are equal in the generated mathematical program "mpMinCostTardiness". This may lead to non-unique solutions.  For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning at line 3 in user-defined function section "procSolveMinCostTardiness".
+Only 3 out of 13 duplicate column warnings were reported.  See also option limit_reported_duplicate_column_row_warnings.
+Input/output error at line 7 in user-defined function section "pro::LibraryTermination".
+The user function library C:\Users\alvaro\AppData\Local\AIMMS\PRO\\AimmsProLibrary-2.0\x64\AimmsPROClient.dll cannot be found.
+Input/output error at line 7 in user-defined function section "pro::LibraryTermination".
+The library C:\Users\alvaro\AppData\Local\AIMMS\PRO\\AimmsProLibrary-2.0\x64\AimmsPROClient.dll has not been loaded because: Error loading library : El parámetro no es correcto.
+Execution error at line 7 in user-defined function section "pro::LibraryTermination".
+The dll for external procedure "pro::management::IsInitialized" has not been found.

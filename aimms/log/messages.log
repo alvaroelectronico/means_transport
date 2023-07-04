@@ -1,1 +1,102 @@
-﻿There is 57.207 Mb in use.
+﻿There is 96.039 Mb in use.
+The undeclared "iTri" is not an index.
+The scope of index "iMode" has not been specified.
+The set "sTrips" of "iTrip" is not the same as the set "sModes" of "last( sModes )".
+The symbol "ShowProgressWindow" is not expected.
+Warning: The parameter "pSwitchCosts" is not initialized (default values are used).
+Warning at line 3 in user-defined function section "procSolveMinCost":
+The parameter "pSwitchCosts" is not initialized (default values are used).
+CPLEX: If you want to find out whether the problem is infeasible or unbounded then try to run it with the CPLEX
+       option 'Presolve' set to 'no'. If the model is infeasible then you might want to switch on the general
+       solvers option 'Infeasibility finder' to let CPLEX print an irreducible infeasibility set (IIS) to the listing file.
+Warning: After zero iterations the preprocessor of CPLEX 20.1 concluded that mpMinCost is infeasible or unbounded.
+Warning at line 3 in user-defined function section "procSolveMinCost":
+After zero iterations the preprocessor of CPLEX 20.1 concluded that mpMinCost is infeasible or unbounded.
+Unexpected end of the definition of constraint "cTardiness".
+The variable "vTotalCost" to be optimized should be a free scalar variable.
+Unexpected end of the definition of constraint "cTardiness".
+The variable "vTotalCost" to be optimized should be a free scalar variable.
+The variable "vTotalCostTardiness" to be optimized should be a free scalar variable.
+The variable "vTotalCostTardiness" to be optimized should be a free scalar variable.
+The variable "vTotalCost" to be optimized should be a free scalar variable.
+The variable "vTotalCost" to be optimized should be a free scalar variable.
+The internal procedure "procSolveMinCost" has already been declared as a user-defined function. 
+Please use another name.
+Warning: The columns "v01SwitchExists(Trip2,Air,Rail)" and "v01SwitchExists(Trip3,Air,Rail)" are equal in the generated mathematical program "mpMinCostTardiness".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning at line 3 in user-defined function section "procSolveMinCostTardiness":
+The columns "v01SwitchExists(Trip2,Air,Rail)" and "v01SwitchExists(Trip3,Air,Rail)" are equal in the generated mathematical program "mpMinCostTardiness".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning: The columns "v01SwitchExists(Trip1,Air,Rail)" and "v01SwitchExists(Trip2,Air,Rail)" are equal in the generated mathematical program "mpMinCostTardiness".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning at line 3 in user-defined function section "procSolveMinCostTardiness":
+The columns "v01SwitchExists(Trip1,Air,Rail)" and "v01SwitchExists(Trip2,Air,Rail)" are equal in the generated mathematical program "mpMinCostTardiness".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning: The columns "v01SwitchExists(Trip1,Air,Road)" and "v01SwitchExists(Trip2,Air,Road)" are equal in the generated mathematical program "mpMinCostTardiness".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning at line 3 in user-defined function section "procSolveMinCostTardiness":
+The columns "v01SwitchExists(Trip1,Air,Road)" and "v01SwitchExists(Trip2,Air,Road)" are equal in the generated mathematical program "mpMinCostTardiness".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning: Only 3 out of 15 duplicate column warnings were reported. 
+See also option limit_reported_duplicate_column_row_warnings.
+Warning at line 3 in user-defined function section "procSolveMinCostTardiness":
+Only 3 out of 15 duplicate column warnings were reported. 
+See also option limit_reported_duplicate_column_row_warnings.
+Warning: The columns "v01SwitchExists(Trip2,Air,Rail)" and "v01SwitchExists(Trip3,Air,Rail)" are equal in the generated mathematical program "mpMinCostTardiness".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning at line 3 in user-defined function section "procSolveMinCostTardiness":
+The columns "v01SwitchExists(Trip2,Air,Rail)" and "v01SwitchExists(Trip3,Air,Rail)" are equal in the generated mathematical program "mpMinCostTardiness".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning: The columns "v01SwitchExists(Trip1,Air,Rail)" and "v01SwitchExists(Trip2,Air,Rail)" are equal in the generated mathematical program "mpMinCostTardiness".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning at line 3 in user-defined function section "procSolveMinCostTardiness":
+The columns "v01SwitchExists(Trip1,Air,Rail)" and "v01SwitchExists(Trip2,Air,Rail)" are equal in the generated mathematical program "mpMinCostTardiness".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning: The columns "v01SwitchExists(Trip1,Rail,Air)" and "v01SwitchExists(Trip2,Rail,Air)" are equal in the generated mathematical program "mpMinCostTardiness".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning at line 3 in user-defined function section "procSolveMinCostTardiness":
+The columns "v01SwitchExists(Trip1,Rail,Air)" and "v01SwitchExists(Trip2,Rail,Air)" are equal in the generated mathematical program "mpMinCostTardiness".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning: Only 3 out of 13 duplicate column warnings were reported. 
+See also option limit_reported_duplicate_column_row_warnings.
+Warning at line 3 in user-defined function section "procSolveMinCostTardiness":
+Only 3 out of 13 duplicate column warnings were reported. 
+See also option limit_reported_duplicate_column_row_warnings.
+Warning: The columns "v01SwitchExists(Trip2,Air,Rail)" and "v01SwitchExists(Trip3,Air,Rail)" are equal in the generated mathematical program "mpMinCostTardiness".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning at line 3 in user-defined function section "procSolveMinCostTardiness":
+The columns "v01SwitchExists(Trip2,Air,Rail)" and "v01SwitchExists(Trip3,Air,Rail)" are equal in the generated mathematical program "mpMinCostTardiness".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning: The columns "v01SwitchExists(Trip1,Air,Rail)" and "v01SwitchExists(Trip2,Air,Rail)" are equal in the generated mathematical program "mpMinCostTardiness".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning at line 3 in user-defined function section "procSolveMinCostTardiness":
+The columns "v01SwitchExists(Trip1,Air,Rail)" and "v01SwitchExists(Trip2,Air,Rail)" are equal in the generated mathematical program "mpMinCostTardiness".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning: The columns "v01SwitchExists(Trip1,Rail,Air)" and "v01SwitchExists(Trip2,Rail,Air)" are equal in the generated mathematical program "mpMinCostTardiness".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning at line 3 in user-defined function section "procSolveMinCostTardiness":
+The columns "v01SwitchExists(Trip1,Rail,Air)" and "v01SwitchExists(Trip2,Rail,Air)" are equal in the generated mathematical program "mpMinCostTardiness".
+This may lead to non-unique solutions. 
+For more information regarding potential causes and consequences, see the help associated with the option "Warning_duplicate_column".
+Warning: Only 3 out of 13 duplicate column warnings were reported. 
+See also option limit_reported_duplicate_column_row_warnings.
+Warning at line 3 in user-defined function section "procSolveMinCostTardiness":
+Only 3 out of 13 duplicate column warnings were reported. 
+See also option limit_reported_duplicate_column_row_warnings.
